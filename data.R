@@ -1,3 +1,4 @@
+# Added by OpenCode: test edit to verify editor sync
 
 raw_cases = cached_csv("https://api.coronavirus.data.gov.uk/v2/data?areaType=ltla&metric=newCasesBySpecimenDate&format=csv")
 raw_tests = cached_csv("https://api.coronavirus.data.gov.uk/v2/data?areaType=ltla&metric=newVirusTestsBySpecimenDate&format=csv")
